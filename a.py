@@ -6,7 +6,7 @@ url = "http://pina.infy.uk/"  # Ganti dengan URL target Anda
 
 # Ambil cookie JWT dari respons server
 cookies = {
-    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjozLCJyb2xlIjoiZ3Vlc3QxMjMiLCJpYXQiOjE3Mzc4OTc2OTIsImV4cCI6MTczNzkwMTI5Mn0.PQQG3PukvjClo7SdzdlCepmfrrZfJcbX9KU1tjt3nik"  # Ganti dengan nilai JWT Anda
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjozLCJyb2xlIjoiZ3Vlc3QxMjMiLCJpYXQiOjE3Mzc4OTkxMjEsImV4cCI6MTczNzkwMjcyMX0.7Lxw0cLYxrxbAL3pohur2l4Te6gmvWfXpGYCzyyUGLE"  # Ganti dengan nilai JWT Anda
 }
 
 # Fungsi untuk brute-force secret key
