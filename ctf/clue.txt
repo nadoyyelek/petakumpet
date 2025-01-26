@@ -1,3 +1,0 @@
-easy : cari dengan grep format flagnya.
-medium : cari file .jpg dan tidak cukup sampai disitu kawan.
-hard : mungkin kamu akan mumet.
